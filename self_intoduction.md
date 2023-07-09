@@ -1,16 +1,17 @@
 # About me
 
 - Name
-    - motogram
+  - motogram
 - Country
-    - Japan
+  - Japan
 - Job
-    - Designer & Front-End Engineer
+  - Designer & Front-End Engineer
 
 ## Food
 
 - Banana
 - Coffee
+- Apple
 
 ## Skill
 
